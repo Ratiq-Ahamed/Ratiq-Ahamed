@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/ai-manufacturing-lab.svg" width="100%" alt="Ratiq Ahamed orchestrating an AI-powered manufacturing company" />
+  <img src="./assets/smart-factory.svg" width="100%" alt="Ratiq Ahamed orchestrating an AI-powered manufacturing company" />
 </div>
 
 <br />
@@ -112,8 +112,8 @@ BUSINESS CONTEXT  ──►  CONNECTED DATA  ──►  INTELLIGENT SYSTEMS  ─
       Easwari Engineering College, Chennai
     </td>
     <td width="25%" align="right">
-      <strong>2022 - Present</strong><br />
-      CGPA · 8.20
+      <strong>2022 - 2026</strong><br />
+      Graduated · CGPA 8.20
     </td>
   </tr>
 </table>
@@ -150,4 +150,3 @@ BUSINESS CONTEXT  ──►  CONNECTED DATA  ──►  INTELLIGENT SYSTEMS  ─
   <br /><br />
   <strong>Technology becomes valuable when it understands the operation.</strong>
 </div>
-
