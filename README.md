@@ -1,94 +1,82 @@
 <div align="center">
-  <img src="./assets/ai-manufacturing-lab.svg" width="100%" alt="Ratiq Ahamed orchestrating an AI-powered manufacturing company" />
+  <img src="./assets/smart-factory.svg" width="100%" alt="Ratiq Ahamed automating a smart manufacturing floor" />
 </div>
 
 <div align="center">
   <h1>Ratiq Ahamed MR</h1>
-  <p><strong>Director of Technology & Business Operations at Ultrakote Printing & Packaging</strong></p>
-  <p>AI engineering · Software development · Manufacturing automation</p>
+  <p><strong>Director of Technology & Business Operations at Ultrakote</strong></p>
+  <p>Building software that understands the factory floor.</p>
 
-  <a href="mailto:ratiqahamed.mr@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ratiq-ahamed-mr/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://github.com/Ratiq-Ahamed"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ratiq-ahamed-mr/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 ---
 
-### Building intelligence into operations
+### From production floor to production code
 
-I work at the intersection of **AI, software, and manufacturing**. As Director of Technology & Business Operations at **Ultrakote Printing & Packaging**, I bring technical systems and operational thinking together to help a real manufacturing business work smarter.
+I work where **manufacturing, business operations, and intelligent software** meet. At **Ultrakote Printing & Packaging**, I lead technology and business operations while building systems that turn real factory activity into clear, reliable data.
 
-My background spans machine learning, generative AI, data science, software development, cloud platforms, APIs, databases, and printing and packaging domain knowledge.
+My current focus is an end-to-end manufacturing platform for job planning, production tracking, machine workflows, inventory, costing, quality, reporting, and AI-assisted automation. I care about software that survives contact with the real world: operators, deadlines, machines, waste, and all.
 
 ```text
-Observe the floor  ->  Connect the data  ->  Automate decisions  ->  Improve operations
+Factory signal  ->  Reliable data  ->  Better decisions  ->  Measurable impact
 ```
 
-### Experience
+### What I am building
 
-| Period | Role | Organization |
-|---|---|---|
-| Mar 2026 - Present | **Director of Technology & Business Operations** | Ultrakote Printing & Packaging |
-| Jan 2026 - Mar 2026 | **AI Intern** | AskSolique |
-| Apr 2025 - Jan 2026 | **Machine Learning Intern** | TVS Next |
-| Jul 2024 - Aug 2024 | **Machine Learning Intern** | ISMO Bio Photonics, IITM |
-| Mar 2024 - May 2024 | **Data Science Intern** | Corizo Pvt Ltd |
-
-### Technology map
-
-| Domain | Skills |
+| Area | Work |
 |---|---|
-| **Languages** | Python, JavaScript |
-| **AI & ML** | PyTorch, Keras, scikit-learn, Transformers, Hugging Face, Pandas, NumPy, Matplotlib |
-| **Agentic & GenAI** | LangChain, LangGraph, LangSmith, CrewAI, Groq, RAG, agentic and domain-specific chatbots |
-| **Application** | FastAPI, RESTful APIs, React.js, Tailwind CSS, Streamlit |
-| **Data** | SQL, Cypher basics, SQLite, Neo4j, ChromaDB, MongoDB, FAISS |
-| **Cloud & Tools** | AWS, Snowflake, Docker, SSMS, Tableau, Figma, WordPress |
-| **Audio & NLP** | Librosa, gTTS, sequential chatbots |
-| **Industry** | Printing and packaging |
+| **Smart manufacturing** | Digitizing print and packaging workflows across machines and processes |
+| **Production software** | Building a production-grade platform with FastAPI, PostgreSQL, and Next.js |
+| **Applied AI** | Integrating ML, automation, and decision support into practical business workflows |
+| **Operations** | Connecting technology choices to productivity, traceability, quality, and growth |
+
+### Journey
+
+**Director of Technology & Business Operations · Ultrakote**  
+Leading digital transformation, software development, AI integration, and technology-led operational improvement for a manufacturing company.
+
+**Machine Learning Intern · TVS Next**  
+Worked in Data & AI with Python, Pandas, NumPy, SciPy, scikit-learn, reinforcement learning, FastAPI, and Django; contributed to applied ML solutions and deployment-oriented engineering.
+
+**Machine Learning Researcher / Intern · ISMO Bio-Photonics**  
+Built domain-focused generative AI and customer-support solutions, including a fine-tuned model and a deployable desktop application.
+
+**B.Tech · Artificial Intelligence & Data Science**  
+Easwari Engineering College, Chennai.
+
+### Selected work
+
+| Project | What makes it interesting |
+|---|---|
+| **Ultrakote Manufacturing Platform** | Live job cards, production tracking, process sequencing, plate lifecycle, inventory, costing, and reports |
+| **Decathlon Cycle Recommender** | Fine-tuned Llama 3.1 with QLoRA for domain-specific product recommendations |
+| **AI Mock Interview** | Interactive interview practice using Next.js, voice AI, and Firebase |
+| **Boat Safety Detection** | Custom YOLOv11 vision system for occupancy-based alerts |
+| **Wood Texture GAN** | Generative modeling pipeline for producing high-resolution wood textures |
+
+### Technology I use
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![PyTorch](https://img.shields.io/badge/PyTorch-0B1220?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![FastAPI](https://img.shields.io/badge/FastAPI-0B1220?style=flat-square&logo=fastapi&logoColor=00C7A3)
-![React](https://img.shields.io/badge/React-0B1220?style=flat-square&logo=react&logoColor=61DAFB)
-![LangChain](https://img.shields.io/badge/LangChain-0B1220?style=flat-square&logo=langchain&logoColor=1C3C3C)
-![MongoDB](https://img.shields.io/badge/MongoDB-0B1220?style=flat-square&logo=mongodb&logoColor=47A248)
-![Neo4j](https://img.shields.io/badge/Neo4j-0B1220?style=flat-square&logo=neo4j&logoColor=4581C3)
-![AWS](https://img.shields.io/badge/AWS-0B1220?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Snowflake](https://img.shields.io/badge/Snowflake-0B1220?style=flat-square&logo=snowflake&logoColor=29B5E8)
-![Docker](https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=2496ED)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FFD43B)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=00C7A3)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=69A7D1)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624)
 
 </div>
-
-### Education
-
-**Bachelor of Technology in Artificial Intelligence and Data Science**  
-Easwari Engineering College, Chennai · 2022 - Present · CGPA: 8.20
-
-### Certifications & leadership
-
-- Microsoft Azure Fundamentals (AZ-900)
-- Oracle Certified Foundations Associate
-- Python Essentials, Cisco
-- Gen AI Study Jam, Vertex AI
-- Introduction to IoT, NPTEL
-- Analysis Case Study, IIT PALS
-- MongoDB CRUD Operations
-- Advanced Python Course, LIVEWIRE
-- Assistant Sponsorship Head of Department, Easwari Engineering College (2023-2024)
-- Secretary, Science Club, Easwari Engineering College (2022-2023)
-
-### Beyond code
-
-**Languages:** English, Hindi, Tamil  
-**Domain knowledge:** Printing and packaging
 
 ---
 
 <div align="center">
-  <strong>Technology becomes valuable when it understands the operation.</strong>
+  <strong>I am interested in systems that do more than demo well.</strong><br />
+  They should make work clearer, faster, and easier to trust.
 </div>
-
